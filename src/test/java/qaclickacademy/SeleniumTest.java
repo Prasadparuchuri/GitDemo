@@ -6,6 +6,7 @@ public class SeleniumTest
     public void browserAutomation()
     {
         System.out.println("Browser Automation");
+        System.out.println("WEB Automation22");
     }
 
     @Test
